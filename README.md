@@ -10,6 +10,8 @@ HI~
  	<li>昵称：辰汐、辰汐秋水、Luminous-辰汐秋水</li>
  	<li>Blog：<a href="https://luminouschenxi.com">luminouschenxi.com</a>（可以在评论区留言哦~）</li>
 </ul>
+<br>
+
 ## Hobbies and Interests/ 我的兴趣，技术栈
 <ul>
  	<li>👻 二次元</li>
@@ -21,7 +23,7 @@ HI~
  	<li>🐝 WEB 开发</li>
  	<li>🎮 游戏宅 (Steam &amp; PC)</li>
 </ul>
-
+<br>
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-AI-blue)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-AIGC-blue)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Unreal%20Engine-blue)
