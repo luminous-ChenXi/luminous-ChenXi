@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 HI~
-这里是辰汐！欢迎光临~<br>
+这里是辰汐！欢迎光临~<br><br>
+
 ## About Me/ 关于我：
 <ul>
  	<li>初出茅庐的大学生一枚~</li>
@@ -23,7 +24,9 @@ HI~
  	<li>🐝 WEB 开发</li>
  	<li>🎮 游戏宅 (Steam &amp; PC)</li>
 </ul>
+
 <br>
+
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-AI-blue)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-AIGC-blue)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Unreal%20Engine-blue)
