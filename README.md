@@ -24,6 +24,7 @@ HI~
  	<li>🐝 WEB 开发</li>
  	<li>🎮 游戏宅 (Steam &amp; PC)</li>
 </ul>
+“Only Youth and Dreams Can Live Up to!”
 
 <br>
 
