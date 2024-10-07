@@ -24,8 +24,9 @@ HI~
  	<li>🐝 WEB 开发</li>
  	<li>🎮 游戏宅 (Steam &amp; PC)</li>
 </ul>
+<br>
 “Only Youth and Dreams Can Live Up to!”
-
+<br>
 <br>
 
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-AI-blue)
