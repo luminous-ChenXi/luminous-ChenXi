@@ -31,6 +31,7 @@ HI~
 
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-AI-blue)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-AIGC-blue)
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-StableDiffusion-blue)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Unreal%20Engine-blue)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Sai-blue)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Blender-blue)
