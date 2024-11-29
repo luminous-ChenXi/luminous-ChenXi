@@ -6,7 +6,7 @@ HI~
 ## About Me/ 关于我：
 <ul>
  	<li>初出茅庐的大学生一枚~</li>
- 	<li于熟练与Python、C、Blender、AIGC、HTML、Vue、AIoT、Unreal Engine 5、Maya的学习。</li>
+ 	<li>熟练于Python、C、Blender、AIGC、HTML、Vue、AIoT、Unreal Engine 5、Maya。</li>
  	<li>偶尔画点画（前期AI绘线稿，后期经本人修改、上色）</li>
  	<li>昵称：辰汐、辰汐秋水、Luminous-辰汐秋水</li>
  	<li>Blog：<a href="https://luminouschenxi.com">luminouschenxi.com</a>（可以在评论区留言哦~）</li>
