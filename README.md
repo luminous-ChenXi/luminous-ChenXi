@@ -5,7 +5,6 @@ HI~
 
 ## About Me/ 关于我：
 <ul>
- 	<li>初出茅庐的大学生一枚~</li>
  	<li>熟练于Python、C、Blender、HTML、Vue、Unreal Engine 5、Maya。</li>
  	<li>偶尔画点画（前期AI绘线稿，后期经本人修改、上色）</li>
   <li>学习研究AIoT、AIGC ing~ </li>
