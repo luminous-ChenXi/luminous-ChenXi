@@ -10,15 +10,16 @@ HI~
   <li>学习研究AIoT、AIGC ing~ </li>
  	<li>昵称：辰汐、辰汐秋水、Luminous-辰汐秋水</li>
  	<li>Blog：<a href="https://www.luminouschenxi.com">htttps://www.luminouschenxi.com</a>（可以在评论区留言哦~）</li>
+  <li>图床：<a href="https://www.luminouschenxi.net">htttps://www.luminouschenxi.net</a>（测试ing~）</li>
 </ul>
 <br>
 
 ## Hobbies and Interests/ 我的兴趣，技术栈
 <ul>
  	<li>👻 二次元</li>
- 	<li>:bulb:玩转AI</li>
+ 	<li>:bulb: 玩转AI</li>
   <li>:art: 绘画</li>
- 	<li>:rocket:动画制作</li>
+ 	<li>:rocket: 动画制作</li>
  	<li>🎮 游戏模拟</li>
  	<li>🐍 Python 开发</li>
  	<li>🐝 WEB 开发</li>
@@ -29,12 +30,14 @@ HI~
 <br>
 <br>
 
-![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-AI-blue)
-![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-AIGC-blue)
-![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-StableDiffusion-blue)
-![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Unreal%20Engine-blue)
+
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-StableDiffusion-orange)
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Unreal%20Engine-black)
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-VTuber-pink)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Sai-blue)
-![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Blender-blue)
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Git-blue)
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Docker-blue)
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-linux-blue)
 ![Vue Version](https://img.shields.io/badge/Vue-3.0-brightgreen.svg)
 <br>
 ![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=white)
