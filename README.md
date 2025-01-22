@@ -9,8 +9,8 @@ HI~
  	<li>偶尔画点画（前期AI绘线稿，后期经本人修改、上色）</li>
   <li>学习研究AIoT、AIGC ing~ </li>
  	<li>昵称：辰汐、辰汐秋水、Luminous-辰汐秋水</li>
- 	<li>Blog: <a href="https://www.luminouschenxi.com">https://www.luminouschenxi.com</a>（可以在评论区留言哦~）</li>
-  <li>图床：<a href="https://www.luminouschenxi.net">https://www.luminouschenxi.net</a>（测试ing~）</li>
+ 	<li>Blog：<a href="https://www.luminouschenxi.com">htttps://www.luminouschenxi.com</a>（可以在评论区留言哦~）</li>
+  <li>图床：<a href="https://www.luminouschenxi.net">htttps://www.luminouschenxi.net</a>（测试ing~）</li>
 </ul>
 <br>
 
@@ -35,9 +35,9 @@ HI~
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Unreal%20Engine-black)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-VTuber-pink)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Sai-blue)
-![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Git-blue)
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Git-red)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Docker-blue)
-![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-linux-blue)
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-linux-black)
 ![Vue Version](https://img.shields.io/badge/Vue-3.0-brightgreen.svg)
 <br>
 ![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=white)
