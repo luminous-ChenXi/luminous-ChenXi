@@ -32,6 +32,7 @@ HI~
 
 
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-StableDiffusion-orange)
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Live2D-green)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Unreal%20Engine-black)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-VTuber-pink)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Sai-blue)
