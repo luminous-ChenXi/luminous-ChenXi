@@ -35,9 +35,9 @@ HI~
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Unreal%20Engine-black)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-VTuber-pink)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Sai-blue)
-![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Git-blue)
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Git-red)
 ![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Docker-blue)
-![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-linux-blue)
+![Static Badge](https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-linux-black)
 ![Vue Version](https://img.shields.io/badge/Vue-3.0-brightgreen.svg)
 <br>
 ![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=white)
