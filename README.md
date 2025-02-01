@@ -9,7 +9,7 @@ HI~
  	<li>偶尔画点画（前期AI绘线稿，后期经本人修改、上色）</li>
   <li>学习研究AIoT、AIGC ing~ </li>
  	<li>昵称：辰汐、辰汐秋水、Luminous-辰汐秋水</li>
- 	<li>Blog: <a href="https://luminouschenxi.com">https://luminouschenxi.com</a>（可以在评论区留言哦~）</li>
+ 	<li>Blog: <a href="https://luminouschenxi.com">https://luminouschenxi.com</a>（可以随时交换友链哦~）</li>
   <li>图床：<a href="https://luminouschenxi.net">https://luminouschenxi.net</a>（测试ing~）</li>
 </ul>
 <br>
