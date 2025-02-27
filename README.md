@@ -26,8 +26,10 @@ HI~
  	<li>🎮 游戏宅 (Steam &amp; PC)</li>
 </ul>
 <br>
-“Only Youth and Dreams Can Live Up to!”
 <br>
+“上海凌晨四点的街道，总能看见追梦者的踉跄；被霓虹浸泡过的候鸟，试图在城市的褶皱里寻找栖息的枝桠——当你真的累了，那就哭一场，然后……继续奋斗！”
+<br>
+“Only Youth and Dreams Can Live Up to!”
 <br>
 
 
