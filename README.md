@@ -7,7 +7,7 @@ HI~
 <ul>
  	<li>熟练于Python、C、Blender、HTML、Vue、Unreal Engine 5、Maya。</li>
  	<li>偶尔画点画（前期AI绘线稿，后期经本人修改、上色）</li>
-  <li>学习研究AIoT、AIGC ing~ </li>
+  <li>爱好服务器、AI、动画制作、二次元、平涂&厚涂 </li>
  	<li>昵称：辰汐、辰汐秋水、Luminous-辰汐秋水</li>
  	<li>Blog: <a href="https://luminouschenxi.com">https://luminouschenxi.com</a>（可以随时交换友链哦~）</li>
   <li>图床：<a href="https://luminouschenxi.net">https://luminouschenxi.net</a>（测试ing~）</li>
@@ -23,7 +23,6 @@ HI~
  	<li>🎮 游戏模拟</li>
  	<li>🐍 Python 开发</li>
  	<li>🐝 WEB 开发</li>
- 	<li>🎮 游戏宅 (Steam &amp; PC)</li>
 </ul>
 <br>
 <br>
