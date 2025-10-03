@@ -24,7 +24,7 @@ HI~
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,html,css,sass,js,ts"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vue,html,css,js,ts"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -32,11 +32,11 @@ HI~
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
@@ -44,7 +44,8 @@ HI~
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="80" src="https://skillicons.dev/icons?i=anaconda,pytorch,blender,github,wordpress,ae,ps,xd,postman,bash,vim"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=anaconda,pytorch,wordpress,blender,ae,ps,xd"/> 
+            <img height="40" src="https://skillicons.dev/icons?i=postman,bash,vim"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
