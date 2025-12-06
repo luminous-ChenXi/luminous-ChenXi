@@ -9,6 +9,7 @@ HI~
  	<li>🐝偶尔画点画（前期AI绘线稿，后期经本人修改、上色）</li>
   <li>👻爱好服务器、AI、动画制作、二次元、平涂&厚涂:art: </li>
  	<li>:bulb:昵称：辰汐、辰汐秋水、Luminous-辰汐秋水</li>
+  <li>✉️E-mail：<a href="mailto:chenxi@luminouschenxi.net">chenxi@luminouschenxi.net</a></li>
  	<li>🌌Blog: <a href="https://luminouschenxi.com">https://luminouschenxi.com</a>（可以随时交换友链哦~）</li>
   <li>🪐图床：<a href="https://luminouschenxi.net">https://luminouschenxi.net</a>（测试ing~）</li>
 </ul>
