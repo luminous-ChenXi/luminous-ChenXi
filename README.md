@@ -14,11 +14,11 @@ HI~
   <li>🪐图床：<a href="https://luminouschenxi.net">https://luminouschenxi.net</a>（测试ing~）</li>
 </ul>
 <br>
-
-## Languages and Tools/ 技术栈：
+<!--
+## Languages and Tools/ 技术栈：-->
 <ul>
 <!-- <h3 align="left">Languages and Tools:</h3> -->
-<table>
+<!-- <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,nginx"/></td>
@@ -52,7 +52,7 @@ HI~
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
     </tr>
-</table>
+</table> -->
  
 <!-- <ul>
  <table>
