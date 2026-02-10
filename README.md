@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 Greetings! 
+<br>
 I'm **Chenxi** （Simplified Chinese）You can also call me Chenxi Qiushui or Luminous-Chenxi Qiushui — welcome to my GitHub page!
+<br>
+<br>
 这里是辰汐！很高兴认识你~！
 
 
