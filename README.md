@@ -16,6 +16,7 @@ Greetings! I'm **Chenxi** （Simplified Chinese）You can also call me Chenxi Qi
   <li>🪐 图床：<a href="https://luminouschenxi.net">https://luminouschenxi.net</a>（测试ing~）</li>
 </ul>
 
+
 ## Tech Stack/ 技术栈：
 <table>
     <tr>
@@ -33,7 +34,10 @@ Greetings! I'm **Chenxi** （Simplified Chinese）You can also call me Chenxi Qi
 </table>
 
 ## Activity/ 活动轨迹：
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luminous-ChenXi&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Latest Activity](https://img.shields.io/github/last-commit/luminous-ChenXi/luminous-ChenXi?style=for-the-badge&label=Latest%20Activity&color=4c569e&logo=github&logoColor=white)](https://github.com/luminous-ChenXi)
+
+[![3D Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luminous-ChenXi&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🏷️ 标签：
 <p>
