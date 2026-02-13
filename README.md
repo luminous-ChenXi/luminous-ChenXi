@@ -29,7 +29,7 @@ I am a **Full-Stack Developer & Digital Creative Explorer**, passionately bridgi
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">💻 后端/运维：</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,nodejs,nginx,docker"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,nodejs,nginx,docker,kubernetes,mysql,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">🎨 前端/建站：</td>
