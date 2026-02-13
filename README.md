@@ -47,7 +47,7 @@ I am a **Full-Stack Developer & Digital Creative Explorer**, passionately bridgi
 
 [![3D Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luminous-ChenXi&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## 标签：
+## Tags/ 标签：
 <p>
   <img src="https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/%E8%BE%B0%E6%B1%90-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
