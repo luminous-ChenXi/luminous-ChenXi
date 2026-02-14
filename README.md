@@ -5,7 +5,7 @@
 **Greetings! I'm Chenxi (辰汐).**  
 You can also call me Chenxi Qiushui or Luminous-Chenxi Qiushui — welcome to my GitHub page!
 
-**你好！我是辰汐。**  
+**嗨~！我是辰汐。**  
 你也可以叫我辰汐秋水或 Luminous-辰汐秋水，欢迎来到我的 GitHub 主页！
 
 </div>
