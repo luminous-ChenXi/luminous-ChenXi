@@ -18,12 +18,30 @@ I am a **Full-Stack Developer & Digital Creative Explorer**, passionately bridgi
 
 我是一名**全栈开发者与数字创意探索者**，热衷于将前沿技术（AI、云原生）与创意构想（二次元、游戏开发）相结合。我的目标是构建既技术扎实又富有创意的实用项目。
 
--   **🔧 技术聚焦**：全栈开发 (Java/Spring Boot, Vue)、云原生 (Docker, Nginx)、内容创作工具链 (UE5, Blender, AE/PS)。
--   **🎨 创意实践**：绘画与视觉设计，探索AIGC辅助工作流。
--   **🚀 核心项目**：主导开发 **[AstrNest]( https://luminouschenxi.net)** —— 一个基于 Spring Boot 3.4.1 & Vue 3 的现代图床平台，支持AI预审、CDN加速和便捷上传[1](@ref)。持续维护更新，已发布包含多项优化和修复的 v1.1.5 版本[1](@ref)。
--   **📝 技术写作**：在[个人博客]( https://luminouschenxi.com )持续分享技术心得，文章涵盖网络配置、开源协议等领域。
--   **📬 保持联系**：欢迎技术交流或合作意向！邮箱：`chenxi@luminouschenxi.net` | [博客]( https://luminouschenxi.com) | [图床项目]( https://luminouschenxi.net)
 
+#### 🔧 Technical Focus / 技术聚焦
+- Full-Stack Development (Java/Spring Boot, Vue) | Cloud-Native (Docker, Nginx) | Content Creation Toolchain (UE5, Blender, AE/PS)
+- 全栈开发 (Java/Spring Boot, Vue) | 云原生 (Docker, Nginx) | 内容创作工具链 (UE5, Blender, AE/PS)
+
+
+#### 🎨 Creative Practice / 创意实践
+- Painting & Visual Design | Exploring AIGC-aided workflows
+- 绘画与视觉设计 | 探索 AIGC 辅助工作流
+
+
+#### 🚀 Core Project / 核心项目
+- Led development of **[AstrNest](https://luminouschenxi.net)** — a modern image hosting platform based on Spring Boot 3.4.1 & Vue 3. Key features: AI pre-review, CDN acceleration, easy uploads. Status: Continuously maintained, v1.1.5 released (with optimizations & fixes).
+- 主导开发 **[AstrNest](https://luminouschenxi.net)** —— 基于 Spring Boot 3.4.1 & Vue 3 的现代图床平台。核心功能：AI 预审、CDN 加速、便捷上传。状态：持续维护，v1.2.1 版本已发布（含优化与修复）。
+
+
+#### 📝 Technical Writing / 技术写作
+- Share technical insights on [Personal Blog](https://luminouschenxi.com). Topics: Network configuration, open-source protocols, etc.
+- 在[个人博客](https://luminouschenxi.com)分享技术心得。内容涵盖：网络配置、开源协议等领域。
+
+
+#### 📬 Get In Touch / 保持联系
+- Welcome to technical exchanges or cooperation! Email: `chenxi@luminouschenxi.net` | [Blog](https://luminouschenxi.com) | [AstrNest Project](https://luminouschenxi.net)
+- 欢迎技术交流或合作意向！邮箱：`chenxi@luminouschenxi.net` | [博客](https://luminouschenxi.com) | [图床项目](https://luminouschenxi.net)
 
 ## Tech Stack/ 技术栈：
 <table>
@@ -33,7 +51,7 @@ I am a **Full-Stack Developer & Digital Creative Explorer**, passionately bridgi
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">🎨 前端/建站：</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,html,css,js,wordpress"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vue,html,css,js,ts,wordpress"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">🎮 创作/设计：</td>
