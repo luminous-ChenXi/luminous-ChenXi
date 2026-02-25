@@ -1,11 +1,13 @@
 ## Hi there 👋
 
 <div align="center">
+    
+**Greetings! I'm Chenxi (辰汐).** 
 
-**Greetings! I'm Chenxi (辰汐).**  
 You can also call me Chenxi Qiushui or Luminous-Chenxi Qiushui — welcome to my GitHub page!
 
-**嗨~！我是辰汐。**  
+**嗨~！我是辰汐。** 
+
 你也可以叫我辰汐秋水或 Luminous-辰汐秋水，欢迎来到我的 GitHub 主页！
 
 </div>
@@ -18,6 +20,15 @@ I am a **Full-Stack Developer & Digital Creative Explorer**, passionately bridgi
 
 我是一名**全栈开发者与数字创意探索者**，热衷于将前沿技术（AI、云原生）与创意构想（二次元、游戏开发）相结合。我的目标是构建既技术扎实又富有创意的实用项目。
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=2196F3&background=FFFFFF00&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Digital+Creative+Explorer;Building+AstrNest+with+Spring+Boot+%26+Vue)
+
+<!--
+
+![Glitch Art](https://glitch-art.vercel.app/api/simple?word=Hello%20World)
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+-->
 
 #### 🔧 Technical Focus / 技术聚焦
 - Full-Stack Development (Java/Spring Boot, Vue) | Cloud-Native (Docker, Nginx) | Content Creation Toolchain (UE5, Blender, AE/PS)
