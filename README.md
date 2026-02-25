@@ -54,6 +54,22 @@ I am a **Full-Stack Developer & Digital Creative Explorer**, passionately bridgi
 - Welcome to technical exchanges or cooperation! Email: `chenxi@luminouschenxi.net` | [Blog](https://luminouschenxi.com) | [AstrNest Project](https://luminouschenxi.net)
 - 欢迎技术交流或合作意向！邮箱：`chenxi@luminouschenxi.net` | [博客](https://luminouschenxi.com) | [图床项目](https://luminouschenxi.net)
 
+
+#### 💖 Support My Work / 支持我的创作与项目
+If my projects (e.g., AstrNest Image Hosting, technical blog) have helped you, welcome to support me via Afadian:  
+如果你觉得我的项目（如 AstrNest 图床、技术博客）对你有帮助，欢迎通过爱发电支持我：
+👉 [辰汐的爱发电主页](https://afdian.com/a/luminous_chenxi) 「替换成你的真实爱发电页面URL」
+
+Your support will be used for:  
+你的支持将用于：
+- Maintaining server & CDN costs for AstrNest  
+  维持 AstrNest 图床的服务器与 CDN 成本
+- Accelerating R&D of AI Knowledge Base & AI Live Streaming Assistant  
+  加速 AI 知识库、AI 直播软件等项目的研发
+- Producing more technical tutorials & creative content  
+  产出更多技术教程与创意内容
+
+---
 ## Tech Stack/ 技术栈：
 <table>
     <tr>
