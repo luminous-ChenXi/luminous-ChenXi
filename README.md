@@ -58,7 +58,7 @@ I am a **Full-Stack Developer & Digital Creative Explorer**, passionately bridgi
 #### 💖 Support My Work / 支持我的创作与项目
 If my projects (e.g., AstrNest Image Hosting, technical blog) have helped you, welcome to support me via Afadian:  
 如果你觉得我的项目（如 AstrNest 图床、技术博客）对你有帮助，欢迎通过爱发电支持我：
-👉 [辰汐的爱发电主页](https://afdian.com/a/luminous_chenxi) 「替换成你的真实爱发电页面URL」
+👉 [辰汐的爱发电主页](https://afdian.com/a/luminous_chenxi)
 
 Your support will be used for:  
 你的支持将用于：
